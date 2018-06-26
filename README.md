@@ -1,13 +1,9 @@
 # Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
+  Click on the link to run project:
+  
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+We were given a sample code and asked to code the functionality in the  `designs.js`  file.
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
